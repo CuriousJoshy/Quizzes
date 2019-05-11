@@ -11,7 +11,7 @@
         },
         
         {
-            "description": "The most abundant element in the human body (by weight) "is":",
+            "description": "The most abundant element in the human body (by weight) is:",
             
             "answers": ["Hydrogen", "Oxygen", "Carbon", "Calcium"],
             
@@ -27,7 +27,7 @@
         },
         
         {
-            "description": "The lightest metallic element floats on water. This element "is":",
+            "description": "The lightest metallic element floats on water. This element is:",
             
             "answers": ["Sodium", "Boron", "Lithium", "Beryllium"],
             
@@ -59,7 +59,7 @@
         },
         
         {
-            "description": "The most abundant metal in the Earth's crust "is":",
+            "description": "The most abundant metal in the Earth's crust is:",
             
             "answers": ["Iron", "Magnesium", "Silicon", "Aluminum"],
             
