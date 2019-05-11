@@ -1,85 +1,85 @@
 {
-    name: "Periodic Table Quiz",
+    "name": "Periodic Table Quiz",
     
-    questions: [
+    "questions""": [
         {
-            description: "What is the symbol for Sodium?",
+            "description": "What is the symbol for Sodium?",
             
-            answers: ["Sr", "Na", "Sc", "K"],
+            "answers": ["Sr", "Na", "Sc", "K"],
             
-            correctAnswer: "Na"
+            "correctAnswer": "Na"
         },
         
         {
-            description: "The most abundant element in the human body (by weight) is:",
+            "description": "The most abundant element in the human body (by weight) "is":",
             
-            answers: ["Hydrogen", "Oxygen", "Carbon", "Calcium"],
+            "answers": ["Hydrogen", "Oxygen", "Carbon", "Calcium"],
             
-            correctAnswer: "Oxygen"
+            "correctAnswer": "Oxygen"
         },
         
         {
-            description: "What is the symbol for Lead?",
+            "description": "What is the symbol for Lead?",
             
-            answers: ["Lr", "Lu", "Sn", "Pb"],
+            "answers": ["Lr", "Lu", "Sn", "Pb"],
             
-            correctAnswer: "Pb"
+            "correctAnswer": "Pb"
         },
         
         {
-            description: "The lightest metallic element floats on water. This element is:",
+            "description": "The lightest metallic element floats on water. This element "is":",
             
-            answers: ["Sodium", "Boron", "Lithium", "Beryllium"],
+            "answers": ["Sodium", "Boron", "Lithium", "Beryllium"],
             
-            correctAnswer: "Lithium"
+            "correctAnswer": "Lithium"
         },
         
         {
-            description: "Which of these symbols is the symbol for Arsenic?",
+            "description": "Which of these symbols is the symbol for Arsenic?",
             
-            answers: ["Ar", "As", "O", "Al"],
+            "answers": ["Ar", "As", "O", "Al"],
             
-            correctAnswer: "As"
+            "correctAnswer": "As"
         },
         
         {
-            description: "What color does white phosphorus glow when oxidizing in air?",
+            "description": "What color does white phosphorus glow when oxidizing in air?",
             
-            answers: ["Green", "Blue", "Purple", "White"],
+            "answers": ["Green", "Blue", "Purple", "White"],
             
-            correctAnswer: "Green"
+            "correctAnswer": "Green"
         },
         
         {
-            description: "What is the Periodic symbol for Mercury?",
+            "description": "What is the Periodic symbol for Mercury?",
             
-            answers: ["Hg", "Mt", "Ga", "Ru"],
+            "answers": ["Hg", "Mt", "Ga", "Ru"],
             
-            correctAnswer: "Hg"
+            "correctAnswer": "Hg"
         },
         
         {
-            description: "The most abundant metal in the Earth's crust is:",
+            "description": "The most abundant metal in the Earth's crust "is":",
             
-            answers: ["Iron", "Magnesium", "Silicon", "Aluminum"],
+            "answers": ["Iron", "Magnesium", "Silicon", "Aluminum"],
             
-            correctAnswer: "Aluminum"
+            "correctAnswer": "Aluminum"
         },
         
         {
-            description: "What is the Periodic symbol for the element Tungsten?",
+            "description": "What is the Periodic symbol for the element Tungsten?",
             
-            answers: ["Bh", "W", "Ti", "Hs"],
+            "answers": ["Bh", "W", "Ti", "Hs"],
             
-            correctAnswer: "W"
+            "correctAnswer": "W"
         },
         
         {
-            description: "Atoms of elements consist of protons, neutrons and electrons. The most common isotope of hydrogen has no neutrons.",
+            "description": "Atoms of elements consist of protons, neutrons and electrons. The most common isotope of hydrogen has no neutrons.",
             
-            answers: ["True", "False"],
+            "answers": ["True", "False"],
             
-            correctAnswer: "True"
+            "correctAnswer": "True"
         }
     ]
 }
