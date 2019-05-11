@@ -1,0 +1,85 @@
+{
+    name: "Periodic Table Quiz",
+    
+    questions: [
+        {
+            description: "What is the symbol for Sodium?",
+            
+            answers: ["Sr", "Na", "Sc", "K"],
+            
+            correctAnswer: "Na"
+        },
+        
+        {
+            description: "The most abundant element in the human body (by weight) is:",
+            
+            answers: ["Hydrogen", "Oxygen", "Carbon", "Calcium"],
+            
+            correctAnswer: "Oxygen"
+        },
+        
+        {
+            description: "What is the symbol for Lead?",
+            
+            answers: ["Lr", "Lu", "Sn", "Pb"],
+            
+            correctAnswer: "Pb"
+        },
+        
+        {
+            description: "The lightest metallic element floats on water. This element is:",
+            
+            answers: ["Sodium", "Boron", "Lithium", "Beryllium"],
+            
+            correctAnswer: "Lithium"
+        },
+        
+        {
+            description: "Which of these symbols is the symbol for Arsenic?",
+            
+            answers: ["Ar", "As", "O", "Al"],
+            
+            correctAnswer: "As"
+        },
+        
+        {
+            description: "What color does white phosphorus glow when oxidizing in air?",
+            
+            answers: ["Green", "Blue", "Purple", "White"],
+            
+            correctAnswer: "Green"
+        },
+        
+        {
+            description: "What is the Periodic symbol for Mercury?",
+            
+            answers: ["Hg", "Mt", "Ga", "Ru"],
+            
+            correctAnswer: "Hg"
+        },
+        
+        {
+            description: "The most abundant metal in the Earth's crust is:",
+            
+            answers: ["Iron", "Magnesium", "Silicon", "Aluminum"],
+            
+            correctAnswer: "Aluminum"
+        },
+        
+        {
+            description: "What is the Periodic symbol for the element Tungsten?",
+            
+            answers: ["Bh", "W", "Ti", "Hs"],
+            
+            correctAnswer: "W"
+        },
+        
+        {
+            description: "Atoms of elements consist of protons, neutrons and electrons. The most common isotope of hydrogen has no neutrons.",
+            
+            answers: ["True", "False"],
+            
+            correctAnswer: "True"
+        }
+    ]
+}
